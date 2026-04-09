@@ -46,25 +46,5 @@ A simple Android application to manage personal events. This project was develop
 - [x] Toasts/Snackbars for feedback
 - [x] Simple student-like structure and comments
 
-## Demo Script (approx. 4-5 minutes)
-
-1.  **Introduction (30s)**: Introduce the app as a "Personal Event Planner" designed for easy event management. Mention the tech stack: Java, Room, and Navigation Component.
-2.  **Navigation (30s)**: Demonstrate the `BottomNavigationView`. Click between "Events" and "Add Event" to show fragment switching.
-3.  **Create Event (1m)**: 
-    - Go to "Add Event".
-    - Try to save with an empty title to show validation.
-    - Use the Date Picker to show that past dates are disabled or show an error.
-    - Create a "Work" event for tomorrow.
-    - Create a "Social" event for next week.
-4.  **Read & Sort (1m)**: 
-    - Switch to the "Events" tab.
-    - Show the list of events.
-    - Point out that the event for tomorrow appears before the event for next week (ascending date sort).
-5.  **Update & Delete (1m)**:
-    - Click on one of the created events.
-    - Change its title or location and save. Show the update in the list.
-    - Click it again and use the "Delete Event" button. Show the Toast confirmation and the updated empty/shorter list.
-6.  **Conclusion (30s)**: Briefly mention how Room ensures data persists even if the app is closed and reopened.
-
 ## LLM Declaration Statement
 "I used an LLM to assist in generating the boilerplate code, XML layout structures, and project organization for this assignment. All logic, validation rules, and integration of the Room database and Navigation component were reviewed and refined to meet the specific requirements of the project."

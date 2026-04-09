@@ -67,4 +67,4 @@ A simple Android application to manage personal events. This project was develop
 6.  **Conclusion (30s)**: Briefly mention how Room ensures data persists even if the app is closed and reopened.
 
 ## LLM Declaration Statement
-"I used an LLM (Google Gemini) to assist in generating the boilerplate code, XML layout structures, and project organization for this assignment. All logic, validation rules, and integration of the Room database and Navigation component were reviewed and refined to meet the specific requirements of the project."
+"I used an LLM to assist in generating the boilerplate code, XML layout structures, and project organization for this assignment. All logic, validation rules, and integration of the Room database and Navigation component were reviewed and refined to meet the specific requirements of the project."
